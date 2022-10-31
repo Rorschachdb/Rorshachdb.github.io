@@ -134,8 +134,8 @@ round-avatar: true
 
 navbar-links:
   'Moi je / About Me': "aboutme"
-  Resources (EN):
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Resources:
+    - Tags du site: "tags"
     - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
