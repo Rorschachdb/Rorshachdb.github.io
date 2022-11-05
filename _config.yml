@@ -108,6 +108,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+include:
+  - _pages
 
 ##############################
 # ### Beautifull Jenkins ### #
@@ -136,7 +138,8 @@ navbar-links:
   'Moi je / About Me': "aboutme"
   Resources:
     - Tags du site: "tags"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Idée d'article futur : "_pages/future"
+
 #  Author's home: "https://deanattali.com"
 
 # Select the social network links that you want to show in the footer.
