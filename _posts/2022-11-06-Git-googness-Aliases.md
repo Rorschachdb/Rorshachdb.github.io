@@ -1,8 +1,7 @@
 ---
 title:  "Git goodness"
 subtitle : "Les aliases"
-date:   2022-10-30 23:03:36 +0100
-tags: [computing, informatique, git, goodness]
+tags: [computing, informatique, git, goodness, setup]
 ---
 
 
