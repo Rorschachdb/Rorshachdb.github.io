@@ -136,6 +136,8 @@ round-avatar: true
 
 navbar-links:
   'Moi je / About Me': "aboutme"
+  Projets :
+    - 'Nephilim : Destinée': "_pages/ND/ND_01_principal"
   Resources:
     - Tags du site: "tags"
     - Idée d'article futur : "_pages/future"
@@ -226,7 +228,7 @@ navbar-text-col: "#FFF"
 navbar-border-col: "#999"
 page-col: "#FFFFFF"
 text-col: "#464646"
-link-col: "#46333f"
+link-col: "#26131f"
 hover-col: "#33212d"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
